@@ -66,7 +66,7 @@ $(document).ready(function() {
       });
   });
 });
-// API_KEY=AIzaSyAykkXnEyQMpLUkTQk9oEXUNLBMV8Q7HLA
+
 /* import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
